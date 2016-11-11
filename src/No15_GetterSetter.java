@@ -1,4 +1,4 @@
-8]]]]]]]]]]]]]]]]]]]]]]7//**
+/**
  * Created by sreenivas on 31/10/2016.
  */
 public class No15_GetterSetter {
@@ -17,5 +17,4 @@ public class No15_GetterSetter {
 
             this.score = score;
         }
-    }9
-#
+    }
