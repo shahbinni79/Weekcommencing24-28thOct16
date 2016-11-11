@@ -17,13 +17,6 @@
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Week commencing 24-28th Oct 16/No8_Powerof2.class" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Week commencing 24-28th Oct 16/No9_Checkerboard.class" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Binni-s-Missing-Project/.idea/compiler.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Binni-s-Missing-Project/.idea/copyright/profiles_settings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Binni-s-Missing-Project/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Binni-s-Missing-Project/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Binni-s-Missing-Project/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Binni-s-Missing-Project/.idea/workspace.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Binni-s-Missing-Project/Binni-s-Missing-Project.iml" />
     </list>
     <ignored path="Week commencing 24-28th Oct 16.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -638,6 +631,10 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="my first upload" />
+    <option name="LAST_COMMIT_MESSAGE" value="my first upload" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
