@@ -2,21 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cefde5e5-13b7-4bc1-beaa-af120c82d7e2" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Week commencing 24-28th Oct 16/N014_Phone/Keypad.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Week commencing 24-28th Oct 16/No10_MultiplicationTable.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Week commencing 24-28th Oct 16/No11_Questions.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Week commencing 24-28th Oct 16/No12_Vote.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Week commencing 24-28th Oct 16/No13_LargestNumber.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Week commencing 24-28th Oct 16/No1_PascalTriangle.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Week commencing 24-28th Oct 16/No2_Diamond.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Week commencing 24-28th Oct 16/No3_Rightangle.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Week commencing 24-28th Oct 16/No4_Getdigts.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Week commencing 24-28th Oct 16/No5_Revenue.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Week commencing 24-28th Oct 16/No6_Three/For/Loops.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Week commencing 24-28th Oct 16/No7_Accending/Digits.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Week commencing 24-28th Oct 16/No8_Powerof2.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Week commencing 24-28th Oct 16/No9_Checkerboard.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Binni-s-Missing-Project/.idea/compiler.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Binni-s-Missing-Project/.idea/copyright/profiles_settings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Binni-s-Missing-Project/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Binni-s-Missing-Project/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Binni-s-Missing-Project/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Binni-s-Missing-Project/.idea/workspace.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Binni-s-Missing-Project/Binni-s-Missing-Project.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="Week commencing 24-28th Oct 16.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -221,6 +214,16 @@
             <PATH_ELEMENT>
               <option name="myItemId" value="Week commencing 24-28th Oct 16" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Week commencing 24-28th Oct 16" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
@@ -589,6 +592,14 @@
       <option name="presentableId" value="Default" />
       <updated>1477428967781</updated>
     </task>
+    <task id="LOCAL-00001" summary="my first upload">
+      <created>1478823323567</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1478823323567</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="ToolWindowManager">
