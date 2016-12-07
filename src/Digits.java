@@ -42,6 +42,8 @@ public class Digits {
             number = number / 10;
         }
         System.out.println(sorted);
+
+        // new comment
     }
 }
 
